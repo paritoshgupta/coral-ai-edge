@@ -1,0 +1,4 @@
+- At the heart of next generation MLOps workflows are managed by ML systems like Sagemaker, Azure Ml Studio and Google's Vertex AI. 
+- All of these systems are built on top of containers
+- Containers are secret ingredients for MLOps.
+- Constant Evaluation, making changes and adapting to feedback and applying new strategies to achieve success is exactly what CI and CD are about.
